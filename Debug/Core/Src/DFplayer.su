@@ -1,0 +1,8 @@
+DFplayer.c:35:6:DFR_Send	32	static
+DFplayer.c:48:6:DFR_NEXT	8	static
+DFplayer.c:53:6:DFR_PUSE	8	static
+DFplayer.c:58:6:DFR_STOP	8	static
+DFplayer.c:63:6:DFR_PLAY	8	static
+DFplayer.c:68:6:DFR_RAND	8	static
+DFplayer.c:73:6:DFR_BACK	8	static
+DFplayer.c:78:6:DFR_VOL	16	static
